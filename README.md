@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharleStraw
-- 👀 I’m interested in JAVA,SQL,
+- 👀 I’m interested in JAVA,SQL,SOAP,
 - 🌱 I’m currently learning SpringBoot,REST
 - 💞️ I’m looking to collaborate JAVA,SQL,Spring 
 - 📫 How to reach me karussloma1@gmail.com
